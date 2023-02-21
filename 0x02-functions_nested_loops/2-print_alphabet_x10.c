@@ -19,7 +19,7 @@ void print_alphabet_x10(void)
 
 			_putchar(alpha);
 		}
-	        a++;
+		a++;
 		_putchar('\n');
 	}
 
